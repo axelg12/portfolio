@@ -9,6 +9,8 @@
   position: relative;
   top: 50%;
   transform: translateY(-50%);
+  max-width: 80vw;
+  margin: 0 auto;
 }
 .App__date {
   padding-top: 60px;
