@@ -16,6 +16,10 @@
   padding-top: 60px;
 }
 img {
-  max-height: 200px;
+  max-height: 300px;
   margin: 0 auto;
+}
+.App__title {
+  font-size: 30px;
+  margin-bottom: 20px;
 }

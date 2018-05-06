@@ -18,7 +18,7 @@ class App extends Component {
       <div className="App">
         <Menu />
         <div className="App__container">
-          <div>Guttormur Jónsson</div>
+          <div className="App__title">Guttormur Jónsson</div>
           <Slider {...settings}>
             <div>
               <img src={afi} />
